@@ -48,8 +48,8 @@ _ La imagen anterior debe enlazar con **https://google.es**
 
 ## Objetivo 4
 
-- Maquetar la siguiente tabla
+- Crea la estructura HTML de la siguiente tabla
 
-![](example-table.png)
+![](tabla-basica.png)
 
 [Back](../readme.md)
