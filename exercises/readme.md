@@ -5,10 +5,10 @@ Listado de ejercicios del módulo DOM, Events, AJAX y HTML5 API's
 
 ## HTML5
 
-- [ ] [Hello HTML](html/00_hello_html.md)
-- [ ] [Querying](html/01_querying.md)
+- [ ] [Hello HTML](html/01_hello_form.md)
+- [ ] [CV Online](html/02_cv_online.md)
 
 
 ## CSS3
 
-- [ ] [TodoList](events/06_todolist.md)
+- [ ] Próximamente
